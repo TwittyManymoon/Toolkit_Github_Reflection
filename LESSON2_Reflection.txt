@@ -1,0 +1,33 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Ans	The folder is ready to use git command, use to initialize the version control functions.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+Ans	To prepare before approve the changes of file.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+Ans	Check that if working directory has more than 1 logical change, then commit the logical change in stageing area.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Ans	When there is new idea to try, which will not affect the stable one.
+
+How do the diagrams help you visualize the branch structure?
+
+Ans	It helps to identify the origin of development.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+Ans	Approved function will be combined. The diagram will prevent confusion of the parent of branches
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?	
+
+Ans	Pros - save a lot of time
+	Cons - code after being merged might be broken
